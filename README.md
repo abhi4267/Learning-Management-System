@@ -30,7 +30,7 @@ Key Features:
 
 **Node version 18.x.x**
 
-### Cloning the repository
+
 
 
 ### Install packages
